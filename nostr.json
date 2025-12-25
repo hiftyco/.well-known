@@ -5,14 +5,14 @@
   },
   "relays": {
     "d36cc4cf901ec56041d00e0b03736f12dfe539bf182a3573108c83fbcc591b53": [
-      wss://nostr.wine,
-      wss://filter.nostr.wine,
-      wss://atlas.nostr.land,
-      wss://relay.nostriches.org,
-      wss://bitcoiner.social,
-      wss://nostros,
-      wss://relay.damus.io,
-      wss://nostr-pub.wellorder.net
+      "wss://nostr.wine",
+      "wss://filter.nostr.wine",
+      "wss://atlas.nostr.land",
+      "wss://relay.nostriches.org",
+      "wss://bitcoiner.social",
+      "wss://nostros",
+      "wss://relay.damus.io",
+      "wss://nostr-pub.wellorder.net"
     ]
   }
 }
